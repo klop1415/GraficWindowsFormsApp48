@@ -14,8 +14,8 @@ namespace GraficWindowsFormsApp48
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             
-            var form = new SplashForm();
-            form.ShowDialog();
+            //var form = new SplashForm();
+            //form.ShowDialog();
 
             Application.Run(new Form1());
         }
